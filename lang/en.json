@@ -1,0 +1,30 @@
+{
+  "FVTT_PAINT_LAYER": {
+    "Controls": {
+      "Title": "Paint Layer"
+    },
+    "Tools": {
+      "Brush": "Brush",
+      "Eraser": "Eraser",
+      "Fill": "Flood Fill",
+      "Undo": "Undo",
+      "Redo": "Redo",
+      "Save": "Save Paint",
+      "Clear": "Clear Paint"
+    },
+    "Panel": {
+      "Color": "Color",
+      "Size": "Size"
+    },
+    "Dialog": {
+      "ClearTitle": "Clear Paint Layer",
+      "ClearBody": "Erase the entire paint layer on this scene? This cannot be undone after saving."
+    },
+    "Settings": {
+      "AutoSaveDelay": {
+        "Name": "Auto-save delay (ms)",
+        "Hint": "How long to wait after the last paint action before uploading the image to the server."
+      }
+    }
+  }
+}
